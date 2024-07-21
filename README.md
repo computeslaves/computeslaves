@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @computeslaves or you can call me hamdanelf!
 - 👀 I’m interested in running Node or a Validator on any Crypto things 
-- 💞️ I’m looking to participate in any Web3 quest
+- 💞️ This Github account is made by me to archive my Node/Validator activity
 - 📫 Reach me on X @hamdanelf !
 - ⚡ Fun fact: I am 24/7 learning new things and never stop doin that
 
